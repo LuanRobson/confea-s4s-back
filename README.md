@@ -58,7 +58,7 @@ Você pode usar tanto npm quanto Yarn para instalar as dependências do projeto.
 
 Com npm:
 ```bash
-npm ci
+npm install
 ```
 
 Com Yarn:
