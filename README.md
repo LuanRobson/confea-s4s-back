@@ -161,11 +161,24 @@ docker run -p 3000:3000 -d confea-s4s-back
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+Contribuições só são bem vindas por colaboradores dos negócios S4S caso necessário procure Nickolas Madeiro ao Final do evento para saber como pode ajudar com algo caso necessário.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença **UNLICENSED**.
+Este projeto está licenciado sob a Licença **# Private License
+
+This project is proprietary and confidential. All rights reserved by the owner.
+
+Unauthorized copying, distribution, modification, or any other use of the code or its contents is strictly prohibited.
+
+Permission is hereby granted to specific individuals or organizations only by the owner of this project. Any such permission must be explicitly documented and granted in writing.
+
+Any person or entity who has been granted access to this project is prohibited from disclosing any part of this project or any derived works to unauthorized parties.
+
+For permission requests, please contact the project owner.
+
+(c) 2024 [Nickolas Madeiro - s4S Tech]. All rights reserved.
+**.
 
 ## Contato
 
@@ -173,4 +186,4 @@ Para mais informações, entre em contato com o número **85988523560**.
 
 ```
 
-Este README fornece uma visão abrangente do projeto, desde a instalação até a execução, além de incluir informações sobre as tecnologias utilizadas e detalhes de configuração. Certifique-se de ajustar qualquer detalhe específico do projeto conforme necessário.
+Este README fornece uma visão abrangente do projeto, desde a instalação até a execução, além de incluir informações sobre as tecnologias utilizadas e detalhes de configuração. 
