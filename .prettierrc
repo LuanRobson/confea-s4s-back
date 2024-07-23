@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": false,
+  "useTabs": true,
+  "overrides": [
+    {
+      "files": "*.ts",
+      "options": {
+        "useTabs": true
+      }
+    }
+  ]
+}
