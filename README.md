@@ -161,7 +161,7 @@ docker run -p 3000:3000 -d confea-s4s-back
 
 ## Contribuição
 
-Contribuições só são bem vindas por colaboradores dos negócios S4S caso necessário procure Nickolas Madeiro ao Final do evento para saber como pode ajudar com algo caso necessário.
+Contribuições só são bem vindas por colaboradores dos negócios S4S caso necessário procure Nickolas Madeiro e Luan Robson ao Final do evento para saber como pode ajudar com algo caso necessário.
 
 ## Licença
 
